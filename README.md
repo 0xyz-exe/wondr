@@ -44,6 +44,17 @@ Platform e-commerce top-up game dan voucher digital Indonesia yang cepat, aman, 
 
 ---
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Katalog Game & Hero Banner**<br>Pilihan kategori game, kolom pencarian, dan penawaran utama | ![Katalog Game & Hero Banner](docs/screenshots/01-landing-catalog.png) |
+| **Alur Form Top-Up Game**<br>Input Player/Zone ID, seleksi denominasi diamond, dan pilihan metode pembayaran | ![Alur Form Top-Up Game](docs/screenshots/02-topup-detail-flow.png) |
+| **Admin Control Center & Metrik**<br>Dashboard analitik omset, total transaksi, dan status fulfillment realtime | ![Admin Control Center & Metrik](docs/screenshots/03-admin-dashboard.png) |
+| **Tabel Manajemen & Rekonsiliasi Pesanan**<br>Monitoring status pembayaran, serial number, dan aksi rekonsiliasi | ![Tabel Manajemen & Rekonsiliasi Pesanan](docs/screenshots/04-admin-orders-table.png) |
+
+---
+
 ## 3. Menjalankan Aplikasi Secara Lokal
 
 ### Prasyarat
