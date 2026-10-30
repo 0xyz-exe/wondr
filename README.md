@@ -103,15 +103,3 @@ File `compose.yaml` sudah disiapkan untuk menjalankan stack produksi:
 ```bash
 docker compose up -d --build
 ```
-
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
-
-### Orders Overview
-![Orders](docs/screenshots/03_orders.png)
